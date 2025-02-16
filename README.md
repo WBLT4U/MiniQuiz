@@ -28,6 +28,7 @@ LearningApp is a gamified quiz platform designed to upskill Africans through int
     Visit http://localhost:8080 in your browser.
 
 ## Project Structure
+
 src/
 ├── assets/
 │   ├── css/
@@ -60,5 +61,5 @@ src/
     * Arrange items in the correct order for drag-and-drop questions.
 
     * Submit the quiz to view your results.
-Live Demo
+## Live Demo
 https://mini-quiz-jade.vercel.app
