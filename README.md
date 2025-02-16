@@ -27,26 +27,6 @@ LearningApp is a gamified quiz platform designed to upskill Africans through int
 4. **Open the app**:
     Visit http://localhost:8080 in your browser.
 
-## Project Structure
-
-src/
-├── assets/
-│   ├── css/
-│   │   └── MiniQuiz.css
-│   ├── images/
-│   │   ├── facebook-icon.png
-│   │   ├── github-icon.png
-│   │   ├── email-icon.png
-│   │   ├── whatsapp-icon.png
-│   │   └── developers.png
-├── components/
-│   ├── LandingPage.vue
-│   └── MiniQuiz.vue
-├── router/
-│   └── index.js
-├── App.vue
-└── main.js
-
 ## Usage
 1. Landing Page:
 
